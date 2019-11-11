@@ -1,0 +1,10 @@
+C:\Users\1896153\source\repos\QuizTwoExam\QuizTwoExam\bin\Debug\QuizTwoExam.exe.config
+C:\Users\1896153\source\repos\QuizTwoExam\QuizTwoExam\bin\Debug\QuizTwoExam.exe
+C:\Users\1896153\source\repos\QuizTwoExam\QuizTwoExam\bin\Debug\QuizTwoExam.pdb
+C:\Users\1896153\source\repos\QuizTwoExam\QuizTwoExam\obj\Debug\QuizTwoExam.csprojAssemblyReference.cache
+C:\Users\1896153\source\repos\QuizTwoExam\QuizTwoExam\obj\Debug\QuizTwoExam.Form1.resources
+C:\Users\1896153\source\repos\QuizTwoExam\QuizTwoExam\obj\Debug\QuizTwoExam.Properties.Resources.resources
+C:\Users\1896153\source\repos\QuizTwoExam\QuizTwoExam\obj\Debug\QuizTwoExam.csproj.GenerateResource.cache
+C:\Users\1896153\source\repos\QuizTwoExam\QuizTwoExam\obj\Debug\QuizTwoExam.csproj.CoreCompileInputs.cache
+C:\Users\1896153\source\repos\QuizTwoExam\QuizTwoExam\obj\Debug\QuizTwoExam.exe
+C:\Users\1896153\source\repos\QuizTwoExam\QuizTwoExam\obj\Debug\QuizTwoExam.pdb
