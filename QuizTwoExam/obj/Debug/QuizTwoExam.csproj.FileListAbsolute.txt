@@ -8,3 +8,13 @@ C:\Users\1896153\source\repos\QuizTwoExam\QuizTwoExam\obj\Debug\QuizTwoExam.cspr
 C:\Users\1896153\source\repos\QuizTwoExam\QuizTwoExam\obj\Debug\QuizTwoExam.csproj.CoreCompileInputs.cache
 C:\Users\1896153\source\repos\QuizTwoExam\QuizTwoExam\obj\Debug\QuizTwoExam.exe
 C:\Users\1896153\source\repos\QuizTwoExam\QuizTwoExam\obj\Debug\QuizTwoExam.pdb
+C:\examtwo\QuizTwoExam\QuizTwoExam\bin\Debug\QuizTwoExam.exe.config
+C:\examtwo\QuizTwoExam\QuizTwoExam\bin\Debug\QuizTwoExam.exe
+C:\examtwo\QuizTwoExam\QuizTwoExam\bin\Debug\QuizTwoExam.pdb
+C:\examtwo\QuizTwoExam\QuizTwoExam\obj\Debug\QuizTwoExam.csprojAssemblyReference.cache
+C:\examtwo\QuizTwoExam\QuizTwoExam\obj\Debug\QuizTwoExam.Form1.resources
+C:\examtwo\QuizTwoExam\QuizTwoExam\obj\Debug\QuizTwoExam.Properties.Resources.resources
+C:\examtwo\QuizTwoExam\QuizTwoExam\obj\Debug\QuizTwoExam.csproj.GenerateResource.cache
+C:\examtwo\QuizTwoExam\QuizTwoExam\obj\Debug\QuizTwoExam.csproj.CoreCompileInputs.cache
+C:\examtwo\QuizTwoExam\QuizTwoExam\obj\Debug\QuizTwoExam.exe
+C:\examtwo\QuizTwoExam\QuizTwoExam\obj\Debug\QuizTwoExam.pdb

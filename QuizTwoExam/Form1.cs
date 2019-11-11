@@ -60,13 +60,18 @@ namespace QuizTwoExam
 
         private void btnCountOfUser_Click(object sender, EventArgs e)
         {
+            if (File.Exists(@"C:\Users\1896153\source\repos\QuizTwoExam\QuizTwoExam\users.txt")) { 
             StreamReader sr = new StreamReader(@"C:\Users\1896153\source\repos\QuizTwoExam\QuizTwoExam\users.txt");
             int i = sr.ReadToEnd().Split(new char[] { '\n' }).Length;
             
             MessageBox.Show("Total Users: " + Convert.ToString(i-1));
 
             sr.Close();
-            
+            } else
+            {
+                MessageBox.Show("No user added...");
+            }
+
         }
 
         private void btnDeleteUsers_Click(object sender, EventArgs e)
