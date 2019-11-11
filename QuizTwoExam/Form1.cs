@@ -33,18 +33,25 @@ namespace QuizTwoExam
 
         private void btnRegister_Click(object sender, EventArgs e)
         {
+            string message = "";
             if (textBox1.TextLength == 0)
             {
-                MessageBox.Show("First Name Cannot be empty!!");
+                message += "First Name ";
             }
             if (textBox2.TextLength == 0)
             {
-                MessageBox.Show("Last Name Cannot be empty!!");
+                message += "Last Name ";
             }
             if (textBox3.TextLength == 0)
             {
-                MessageBox.Show("Telephone Cannot be empty!!");
+                message += "Telephone ";
             }
+
+            if (textBox1.TextLength == 0 || textBox2.TextLength == 0 || textBox3.TextLength == 0)
+            {
+                MessageBox.Show(message + "cannot be empty");
+            }
+            else { 
 
             FileStream userFile = new FileStream(@"C:\Users\1896153\source\repos\QuizTwoExam\QuizTwoExam\users.txt", FileMode.Append);
 
@@ -55,7 +62,8 @@ namespace QuizTwoExam
             sw.Write(newUser.ToString());
 
             sw.Close();
-            
+            }
+
         } //Last of Register
 
         private void btnCountOfUser_Click(object sender, EventArgs e)
